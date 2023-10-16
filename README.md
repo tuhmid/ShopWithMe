@@ -28,5 +28,4 @@ When editing an item, the form will appear pre-filled with the existing informat
 
 Collaborative editing ensures that changes are instantly reflected for all users who have the link.
 
-
 Created with Mongoose, MongoDB, Express, HTML, CSS, JS
