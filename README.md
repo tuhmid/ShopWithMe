@@ -27,3 +27,6 @@ You can mark items as completed, edit their details, reorder them within the lis
 When editing an item, the form will appear pre-filled with the existing information for that item. Saving the form updates both the HTML display and the database.
 
 Collaborative editing ensures that changes are instantly reflected for all users who have the link.
+
+
+Created with Mongoose, MongoDB, Express, HTML, CSS, JS
