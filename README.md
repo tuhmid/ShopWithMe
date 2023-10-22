@@ -17,6 +17,12 @@ A list of shopping items with columns for item name, quantity, completion status
 A button for adding new items to the shopping list.
 Forms for creating and editing items with input fields for item name and quantity.
 
+<img width="842" alt="Screen Shot 2023-10-22 at 11 13 20 AM" src="https://github.com/tuhmid/ShopWithMe/assets/144698175/26a66141-6aed-4c19-8744-f66cc8e1737f">
+
+<img width="676" alt="Screen Shot 2023-10-22 at 11 05 24 AM" src="https://github.com/tuhmid/ShopWithMe/assets/144698175/3e053668-e317-4138-9328-0ea94fed5d6e">
+
+
+
 # Functionality
 When the page loads, the shopping list is displayed, reflecting the current state of the database.
 
